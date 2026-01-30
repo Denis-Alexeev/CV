@@ -1,6 +1,6 @@
 # Redirect Page
 
-This repository contains a redirect page that automatically forwards visitors from `username.github.io/CV` to `https://yandex.ru`.
+This repository contains a redirect page that automatically forwards visitors from `denis-alexeev.github.io/CV` to the pdf file with my CV.
 
 ## How it works
 - Uses triple-layer redirect system (meta tag + JavaScript + manual link)
